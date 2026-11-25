@@ -1,0 +1,10 @@
+.DS_Store
+# Foto asli (HEIC) — versi web ada di assets/img
+Villa Besar/
+Villa Kecil/
+*.HEIC
+Pricelist Relung Villa.pdf
+Logo Relung.png
+
+# Konfigurasi lokal Claude Code
+.claude/
